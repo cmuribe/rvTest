@@ -1,0 +1,14 @@
+body{
+    background-color: darkorange;
+}
+
+h2{
+    color: indigo;
+    text-align: center;
+}
+
+ul{
+    color: midnightblue;
+    list-style-type: none;
+    text-align: center;
+}
