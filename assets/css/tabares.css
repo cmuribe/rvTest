@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+  }
+  
+.divid{
+   
+   
+   
+    width: 50%; /*or whatever % you prefer*/
+    margin: 0 auto;
+    display: block;
+}
+.top{
+    padding: 70px 0;
+    border: 3px solid green;
+    color: darkgrey;
+    text-align: center;
+    
+
+}
+.titlebody{
+    color:darkslategrey;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.below{
+    padding: 70px 0;
+    border: 3px solid green;
+    color: darkgrey;
+    text-align: center;
+}
+h1{
+    color:darkslategrey;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
